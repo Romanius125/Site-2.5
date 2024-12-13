@@ -3,7 +3,7 @@ header{
   padding:10px;
 }
 nav{
-  align:center;
+  text-align:right;
 }
 main{
   background-color:#f5cfbf;
